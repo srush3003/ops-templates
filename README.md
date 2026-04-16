@@ -16,7 +16,7 @@ context.
 
 | Template | What it solves |
 |----------|---------------|
-| `integration-planning-template.md` | Prevents launch delays caused by missing credentials, unclear ownership, and integrations nobody started early enough |
+| [`integration-planning-template.md`](https://github.com/srush3003/ops-templates/blob/main/integration-planning-template.md) | Prevents launch delays caused by missing credentials, unclear ownership, and integrations nobody started early enough |
 
 More templates added as frameworks are extracted from
 active engagements.
